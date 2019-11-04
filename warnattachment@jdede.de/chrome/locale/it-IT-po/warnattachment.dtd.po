@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WarnAttachment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-04 17:11+0200\n"
+"PO-Revision-Date: 2019-11-04 18:02+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+
+#: options.warn.title
+msgid "File extensions (warn)"
+msgstr "Estensioni di file (avviso)"
+
+#: options.warn.desc
+msgid ""
+"A warning dialog will be shown for these file extensions. This field "
+"contains comma-separated values."
+msgstr ""
+"Per queste estensioni di file verrà mostrata un messaggio di avviso. Questo "
+"campo contiene valori separati da virgola."
+
+#: options.blocked.title
+msgid "File extensions (block)"
+msgstr "Estensioni di file (blocco)"
+
+#: options.blocked.desc
+msgid ""
+"These file extensions will be blocked completely. This field contains comma-"
+"separated values."
+msgstr ""
+"Queste estensioni di file saranno completamente bloccate. Questo campo "
+"contiene valori separati da virgola."
+
+#: options.warn.user.title
+msgid "User defined message for warning"
+msgstr "Messaggio di avviso definito dall'utente"
+
+#: options.warn.user.desc
+msgctxt "options.warn.user.desc"
+msgid "Leave empty to use default message."
+msgstr "Lasciare vuoto per usare il messaggio predefinito."
+
+#: options.blocked.user.title
+msgid "User defined message for blocked attachments"
+msgstr "Messaggio per gli allegati bloccati definito dall'utente"
+
+#: options.blocked.user.desc
+msgctxt "options.blocked.user.desc"
+msgid "Leave empty to use default message."
+msgstr "Lasciare vuoto per usare il messaggio predefinito."
+
+#: options.timeout.title
+msgid "Timeout"
+msgstr "Timeout"
+
+#: options.timeout.desc
+msgid "After this time in seconds, the user can open an attachment."
+msgstr "Dopo questo tempo in secondi l'utente può aprire un allegato."
+
+#: app.title
+msgid "WarnAttachment"
+msgstr "WarnAttachment"
+
+#: options.title
+msgid "WarnAttachment Settings"
+msgstr "Impostazioni di WarnAttachment"
+
+#: options.info.text.link.github
+msgid "Visit WarnAttachment on github!"
+msgstr "Visita WarnAttachment su github!"
+
+#: options.info.text.link.license
+msgid "Show license online (GNU General Public License v3.0)"
+msgstr "Visualizza online la licenza (GNU General Public License v3.0)"

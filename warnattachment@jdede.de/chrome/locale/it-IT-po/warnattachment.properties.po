@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WarnAttachmen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-04 17:11+0200\n"
+"PO-Revision-Date: 2019-11-04 17:25+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Accelerator-Marker: &\n"
+"X-Merge-On: location\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+
+#: warningTitle
+msgid "Insecure file extension"
+msgstr "Estensione di file non sicura"
+
+#: warningText
+msgid ""
+"This file might contain malicious content. Please double-check if the source "
+"is trustworthy. Would you really like to open that file?"
+msgstr ""
+"Questo file potrebbe contenere contenuto malevolo. Si prega di controllare "
+"che la sorgente sia fidata. Vuoi davvero aprire questo file?"
+
+#: blockTitle
+msgid "Attachment blocked"
+msgstr "Allegato bloccato"
+
+#: blockText
+msgid ""
+"To protect you against malware, this attachment cannot be opened on this "
+"machine."
+msgstr ""
+"Per proteggervi dal contenuto malevolo (malware o virus), questo allegato "
+"non può essere aperto su questo pc."
