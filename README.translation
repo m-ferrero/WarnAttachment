@@ -1,0 +1,7 @@
+# From dtd files to po
+
+moz2po -t warnattachment@jdede.de/chrome/locale/en-US/ warnattachment@jdede.de/chrome/locale/it-IT/ warnattachment@jdede.de/chrome/locale/it-IT-po/
+
+# From po and mo files to dtd
+
+po2moz -t warnattachment@jdede.de/chrome/locale/en-US/ warnattachment@jdede.de/chrome/locale/it-IT-po/ warnattachment@jdede.de/chrome/locale/it-IT/
